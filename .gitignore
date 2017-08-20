@@ -6,5 +6,6 @@ venv/
 *.zip
 .ipynb_checkpoints/
 
+images/step7/
 saved_models/*
 bottleneck_features/*
